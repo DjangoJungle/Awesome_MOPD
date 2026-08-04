@@ -2,6 +2,10 @@
 
 A curated list of papers and technical reports related to **Multi-Teacher On-Policy Distillation (MOPD)** and On-Policy Distillation (OPD).
 
+## Blogs
+
+- Multi-Teacher On-Policy Distillation [![Blog](https://img.shields.io/badge/Notion-Blog-000000.svg)](https://yumoxu.notion.site/multi-teacher-on-policy-distillation)
+
 ## Papers
 
 - Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
@@ -18,17 +22,20 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 ## Technical Reports
 
 - Kimi K3: Open Frontier Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2607.24653-b31b1b.svg)](http://arxiv.org/abs/2607.24653)
+- Solar Open 2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.20062-b31b1b.svg)](http://arxiv.org/abs/2607.20062)
+- OvisOCR2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.13639-b31b1b.svg)](http://arxiv.org/abs/2607.13639)
+- Mach-Mind-4-Flash Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.09375-b31b1b.svg)](http://arxiv.org/abs/2607.09375)
 - KAT-Coder-V2.5 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.05471-b31b1b.svg)](http://arxiv.org/abs/2607.05471)
+- Unified Audio Intelligence Without Regressing on Text Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2607.05196-b31b1b.svg)](http://arxiv.org/abs/2607.05196)
+- Qwen-Image-2.0-RL Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2606.27608-b31b1b.svg)](http://arxiv.org/abs/2606.27608)
 - NebulaExp-8B: An Empirical Post-Training Pipeline via Full-Scale Ablation Research [![arXiv](https://img.shields.io/badge/arXiv-2606.26671-b31b1b.svg)](http://arxiv.org/abs/2606.26671)
 - DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2606.19348-b31b1b.svg)](http://arxiv.org/abs/2606.19348)
 - Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2606.15007-b31b1b.svg)](http://arxiv.org/abs/2606.15007)
+- Kwai Keye-VL-2.0 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2606.10651-b31b1b.svg)](http://arxiv.org/abs/2606.10651)
 - Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2603.19220-b31b1b.svg)](http://arxiv.org/abs/2603.19220)
 - GLM-5: from Vibe Coding to Agentic Engineering [![arXiv](https://img.shields.io/badge/arXiv-2602.15763-b31b1b.svg)](http://arxiv.org/abs/2602.15763)
+- Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making [![arXiv](https://img.shields.io/badge/arXiv-2602.06570-b31b1b.svg)](http://arxiv.org/abs/2602.06570)
 - MiMo-V2-Flash Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2601.02780-b31b1b.svg)](http://arxiv.org/abs/2601.02780)
-
-## Blogs
-
-- Multi-Teacher On-Policy Distillation [![Blog](https://img.shields.io/badge/Notion-Blog-000000.svg)](https://yumoxu.notion.site/multi-teacher-on-policy-distillation)
 
 ## Contributing
 
