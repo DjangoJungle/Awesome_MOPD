@@ -9,6 +9,9 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 ## Papers
 
 - Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
+- Beyond the Best Teacher: Expanding and Compressing the Reasoning Solution Manifold [![arXiv](https://img.shields.io/badge/arXiv-2607.27770-b31b1b.svg)](http://arxiv.org/abs/2607.27770)
+- The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.24720-b31b1b.svg)](http://arxiv.org/abs/2607.24720)
+- When Top-K Misses the Decision: Tool-Call Drift in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.07050-b31b1b.svg)](http://arxiv.org/abs/2607.07050)
 - UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning [![arXiv](https://img.shields.io/badge/arXiv-2607.04425-b31b1b.svg)](http://arxiv.org/abs/2607.04425)
 - H-OPD: Confidence Aware Heterogeneous Multi-Teacher Multimodal On-policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.02592-b31b1b.svg)](http://arxiv.org/abs/2607.02592)
 - DOPD: Dual On-policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2606.30626-b31b1b.svg)](http://arxiv.org/abs/2606.30626)
