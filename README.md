@@ -8,6 +8,8 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ## Papers
 
+- Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.19098-b31b1b.svg)](http://arxiv.org/abs/2608.19098)
+- Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2608.16647-b31b1b.svg)](http://arxiv.org/abs/2608.16647)
 - Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
 - Beyond the Best Teacher: Expanding and Compressing the Reasoning Solution Manifold [![arXiv](https://img.shields.io/badge/arXiv-2607.27770-b31b1b.svg)](http://arxiv.org/abs/2607.27770)
 - The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.24720-b31b1b.svg)](http://arxiv.org/abs/2607.24720)
@@ -19,6 +21,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 - MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training [![arXiv](https://img.shields.io/badge/arXiv-2606.30406-b31b1b.svg)](http://arxiv.org/abs/2606.30406)
 - DanceOPD: On-Policy Generative Field Distillation [![arXiv](https://img.shields.io/badge/arXiv-2606.27377-b31b1b.svg)](http://arxiv.org/abs/2606.27377)
 - Counteraction-Aware Multi-Teacher On-Policy Distillation for General Capability Recovery with Domain Preservation [![arXiv](https://img.shields.io/badge/arXiv-2605.27115-b31b1b.svg)](http://arxiv.org/abs/2605.27115)
+- CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2605.25378-b31b1b.svg)](http://arxiv.org/abs/2605.25378)
 - Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe [![arXiv](https://img.shields.io/badge/arXiv-2605.03677-b31b1b.svg)](http://arxiv.org/abs/2605.03677)
 - Co-Evolving Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2604.27083-b31b1b.svg)](http://arxiv.org/abs/2604.27083)
 
