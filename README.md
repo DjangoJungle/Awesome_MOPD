@@ -8,10 +8,12 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ## Papers
 
+- D3-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.24987-b31b1b.svg)](http://arxiv.org/abs/2608.24987)
 - Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.19098-b31b1b.svg)](http://arxiv.org/abs/2608.19098)
 - Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2608.16647-b31b1b.svg)](http://arxiv.org/abs/2608.16647)
 - Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
 - Beyond the Best Teacher: Expanding and Compressing the Reasoning Solution Manifold [![arXiv](https://img.shields.io/badge/arXiv-2607.27770-b31b1b.svg)](http://arxiv.org/abs/2607.27770)
+- Weak-to-Strong On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.26246-b31b1b.svg)](http://arxiv.org/abs/2607.26246)
 - The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.24720-b31b1b.svg)](http://arxiv.org/abs/2607.24720)
 - When Top-K Misses the Decision: Tool-Call Drift in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.07050-b31b1b.svg)](http://arxiv.org/abs/2607.07050)
 - UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning [![arXiv](https://img.shields.io/badge/arXiv-2607.04425-b31b1b.svg)](http://arxiv.org/abs/2607.04425)
