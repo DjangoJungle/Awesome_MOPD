@@ -8,6 +8,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ## Papers
 
+- Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms [![arXiv](https://img.shields.io/badge/arXiv-2608.27409-b31b1b.svg)](http://arxiv.org/abs/2608.27409)
 - D3-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.24987-b31b1b.svg)](http://arxiv.org/abs/2608.24987)
 - Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.19098-b31b1b.svg)](http://arxiv.org/abs/2608.19098)
 - Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2608.16647-b31b1b.svg)](http://arxiv.org/abs/2608.16647)
