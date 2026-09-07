@@ -1,12 +1,12 @@
-# Awesome MOPD
+# Awesome MOPD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of papers and technical reports related to **Multi-Teacher On-Policy Distillation (MOPD)** and On-Policy Distillation (OPD).
 
-## Blogs
+## 1. Blogs
 
 - Multi-Teacher On-Policy Distillation [![Blog](https://img.shields.io/badge/Notion-Blog-000000.svg)](https://yumoxu.notion.site/multi-teacher-on-policy-distillation)
 
-## Papers
+## 2. Papers
 
 ### Foundations & Capability Integration
 
@@ -46,7 +46,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 - DanceOPD: On-Policy Generative Field Distillation [![arXiv](https://img.shields.io/badge/arXiv-2606.27377-b31b1b.svg)](http://arxiv.org/abs/2606.27377)
 - CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2605.25378-b31b1b.svg)](http://arxiv.org/abs/2605.25378)
 
-## Technical Reports
+## 3. Technical Reports
 
 - Kimi K3: Open Frontier Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2607.24653-b31b1b.svg)](http://arxiv.org/abs/2607.24653)
 - Solar Open 2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.20062-b31b1b.svg)](http://arxiv.org/abs/2607.20062)
@@ -64,6 +64,6 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 - Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making [![arXiv](https://img.shields.io/badge/arXiv-2602.06570-b31b1b.svg)](http://arxiv.org/abs/2602.06570)
 - MiMo-V2-Flash Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2601.02780-b31b1b.svg)](http://arxiv.org/abs/2601.02780)
 
-## Contributing
+## 4. Contributing
 
 Feel free to open a pull request to add related works.
