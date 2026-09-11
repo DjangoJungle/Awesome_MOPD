@@ -11,37 +11,36 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 ### Foundations & Capability Integration
 
 - Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms [![arXiv](https://img.shields.io/badge/arXiv-2608.27409-b31b1b.svg)](http://arxiv.org/abs/2608.27409)
-- Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
+- Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.19098-b31b1b.svg)](http://arxiv.org/abs/2608.19098)
 - Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent [![arXiv](https://img.shields.io/badge/arXiv-2606.30616-b31b1b.svg)](http://arxiv.org/abs/2606.30616)
 - MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training [![arXiv](https://img.shields.io/badge/arXiv-2606.30406-b31b1b.svg)](http://arxiv.org/abs/2606.30406)
 - Co-Evolving Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2604.27083-b31b1b.svg)](http://arxiv.org/abs/2604.27083)
 - ORBIT: On-policy Exploration-Exploitation for Controllable Multi-Budget Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2601.08310-b31b1b.svg)](http://arxiv.org/abs/2601.08310)
 
-### Multi-Teacher Optimization
+### Methods & Optimization
 
+- Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.08798-b31b1b.svg)](http://arxiv.org/abs/2609.08798)
 - Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs [![arXiv](https://img.shields.io/badge/arXiv-2609.02548-b31b1b.svg)](http://arxiv.org/abs/2609.02548)
 - Preserving General Capabilities during Domain Specialization with Uncertainty-Calibrated MOPD [![arXiv](https://img.shields.io/badge/arXiv-2608.26735-b31b1b.svg)](http://arxiv.org/abs/2608.26735)
 - D3-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.24987-b31b1b.svg)](http://arxiv.org/abs/2608.24987)
-- Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.19098-b31b1b.svg)](http://arxiv.org/abs/2608.19098)
 - Beyond the Best Teacher: Expanding and Compressing the Reasoning Solution Manifold [![arXiv](https://img.shields.io/badge/arXiv-2607.27770-b31b1b.svg)](http://arxiv.org/abs/2607.27770)
+- Weak-to-Strong On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.26246-b31b1b.svg)](http://arxiv.org/abs/2607.26246)
 - H-OPD: Confidence Aware Heterogeneous Multi-Teacher Multimodal On-policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.02592-b31b1b.svg)](http://arxiv.org/abs/2607.02592)
+- DOPD: Dual On-policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2606.30626-b31b1b.svg)](http://arxiv.org/abs/2606.30626)
 - Counteraction-Aware Multi-Teacher On-Policy Distillation for General Capability Recovery with Domain Preservation [![arXiv](https://img.shields.io/badge/arXiv-2605.27115-b31b1b.svg)](http://arxiv.org/abs/2605.27115)
+- Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe [![arXiv](https://img.shields.io/badge/arXiv-2605.03677-b31b1b.svg)](http://arxiv.org/abs/2605.03677)
 
 ### Analysis & Failure Modes
 
+- Rethinking On-Policy Distillation of Large Language Models II: One Training Example [![arXiv](https://img.shields.io/badge/arXiv-2609.04172-b31b1b.svg)](http://arxiv.org/abs/2609.04172)
 - Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2608.16647-b31b1b.svg)](http://arxiv.org/abs/2608.16647)
 - The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.24720-b31b1b.svg)](http://arxiv.org/abs/2607.24720)
 - When Top-K Misses the Decision: Tool-Call Drift in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.07050-b31b1b.svg)](http://arxiv.org/abs/2607.07050)
 
-### OPD Algorithm Variants
-
-- Weak-to-Strong On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.26246-b31b1b.svg)](http://arxiv.org/abs/2607.26246)
-- DOPD: Dual On-policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2606.30626-b31b1b.svg)](http://arxiv.org/abs/2606.30626)
-- Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe [![arXiv](https://img.shields.io/badge/arXiv-2605.03677-b31b1b.svg)](http://arxiv.org/abs/2605.03677)
-
-### Applications Beyond Text LLMs
+### Applications In Different Domains
 
 - Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models [![arXiv](https://img.shields.io/badge/arXiv-2608.04349-b31b1b.svg)](http://arxiv.org/abs/2608.04349)
+- Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
 - UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning [![arXiv](https://img.shields.io/badge/arXiv-2607.04425-b31b1b.svg)](http://arxiv.org/abs/2607.04425)
 - DanceOPD: On-Policy Generative Field Distillation [![arXiv](https://img.shields.io/badge/arXiv-2606.27377-b31b1b.svg)](http://arxiv.org/abs/2606.27377)
 - CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2605.25378-b31b1b.svg)](http://arxiv.org/abs/2605.25378)
