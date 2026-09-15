@@ -39,6 +39,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Applications In Different Domains
 
+- Video-MOPD: Multi-Teacher On-Policy Distillation for Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2609.09300-b31b1b.svg)](http://arxiv.org/abs/2609.09300)
 - Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models [![arXiv](https://img.shields.io/badge/arXiv-2608.04349-b31b1b.svg)](http://arxiv.org/abs/2608.04349)
 - Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
 - UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning [![arXiv](https://img.shields.io/badge/arXiv-2607.04425-b31b1b.svg)](http://arxiv.org/abs/2607.04425)
