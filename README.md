@@ -19,6 +19,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- Who Teaches Which Token? Verifier-Gated Multi-Expert On-Policy Distillation for Scientific Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2609.15404-b31b1b.svg)](http://arxiv.org/abs/2609.15404)
 - Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.08798-b31b1b.svg)](http://arxiv.org/abs/2609.08798)
 - Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs [![arXiv](https://img.shields.io/badge/arXiv-2609.02548-b31b1b.svg)](http://arxiv.org/abs/2609.02548)
 - Preserving General Capabilities during Domain Specialization with Uncertainty-Calibrated MOPD [![arXiv](https://img.shields.io/badge/arXiv-2608.26735-b31b1b.svg)](http://arxiv.org/abs/2608.26735)
@@ -32,6 +33,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Analysis & Failure Modes
 
+- Data-free On-policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.14193-b31b1b.svg)](http://arxiv.org/abs/2609.14193)
 - Rethinking On-Policy Distillation of Large Language Models II: One Training Example [![arXiv](https://img.shields.io/badge/arXiv-2609.04172-b31b1b.svg)](http://arxiv.org/abs/2609.04172)
 - Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2608.16647-b31b1b.svg)](http://arxiv.org/abs/2608.16647)
 - The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.24720-b31b1b.svg)](http://arxiv.org/abs/2607.24720)
@@ -42,6 +44,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 - Video-MOPD: Multi-Teacher On-Policy Distillation for Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2609.09300-b31b1b.svg)](http://arxiv.org/abs/2609.09300)
 - Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models [![arXiv](https://img.shields.io/badge/arXiv-2608.04349-b31b1b.svg)](http://arxiv.org/abs/2608.04349)
 - Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
+- MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.29320-b31b1b.svg)](http://arxiv.org/abs/2607.29320)
 - UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning [![arXiv](https://img.shields.io/badge/arXiv-2607.04425-b31b1b.svg)](http://arxiv.org/abs/2607.04425)
 - DanceOPD: On-Policy Generative Field Distillation [![arXiv](https://img.shields.io/badge/arXiv-2606.27377-b31b1b.svg)](http://arxiv.org/abs/2606.27377)
 - CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2605.25378-b31b1b.svg)](http://arxiv.org/abs/2605.25378)
