@@ -10,6 +10,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Foundations & Capability Integration
 
+- ACLArena: Agent Continual Learning in Multi-stage Post-training [![arXiv](https://img.shields.io/badge/arXiv-2609.23989-b31b1b.svg)](http://arxiv.org/abs/2609.23989)
 - Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms [![arXiv](https://img.shields.io/badge/arXiv-2608.27409-b31b1b.svg)](http://arxiv.org/abs/2608.27409)
 - Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.19098-b31b1b.svg)](http://arxiv.org/abs/2608.19098)
 - Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent [![arXiv](https://img.shields.io/badge/arXiv-2606.30616-b31b1b.svg)](http://arxiv.org/abs/2606.30616)
@@ -19,6 +20,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- Distill What You Trust: Reliability-Aware Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.23697-b31b1b.svg)](http://arxiv.org/abs/2609.23697)
 - Who Teaches Which Token? Verifier-Gated Multi-Expert On-Policy Distillation for Scientific Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2609.15404-b31b1b.svg)](http://arxiv.org/abs/2609.15404)
 - Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.08798-b31b1b.svg)](http://arxiv.org/abs/2609.08798)
 - Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs [![arXiv](https://img.shields.io/badge/arXiv-2609.02548-b31b1b.svg)](http://arxiv.org/abs/2609.02548)
@@ -42,6 +44,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 ### Applications In Different Domains
 
 - Video-MOPD: Multi-Teacher On-Policy Distillation for Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2609.09300-b31b1b.svg)](http://arxiv.org/abs/2609.09300)
+- One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents [![arXiv](https://img.shields.io/badge/arXiv-2609.23377-b31b1b.svg)](http://arxiv.org/abs/2609.23377)
 - Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models [![arXiv](https://img.shields.io/badge/arXiv-2608.04349-b31b1b.svg)](http://arxiv.org/abs/2608.04349)
 - Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
 - MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.29320-b31b1b.svg)](http://arxiv.org/abs/2607.29320)
@@ -53,7 +56,6 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 - Kimi K3: Open Frontier Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2607.24653-b31b1b.svg)](http://arxiv.org/abs/2607.24653)
 - Solar Open 2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.20062-b31b1b.svg)](http://arxiv.org/abs/2607.20062)
-- OvisOCR2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.13639-b31b1b.svg)](http://arxiv.org/abs/2607.13639)
 - Mach-Mind-4-Flash Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.09375-b31b1b.svg)](http://arxiv.org/abs/2607.09375)
 - KAT-Coder-V2.5 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.05471-b31b1b.svg)](http://arxiv.org/abs/2607.05471)
 - Unified Audio Intelligence Without Regressing on Text Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2607.05196-b31b1b.svg)](http://arxiv.org/abs/2607.05196)
