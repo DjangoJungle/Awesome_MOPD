@@ -20,6 +20,8 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.35347-b31b1b.svg)](http://arxiv.org/abs/2609.35347)
+- MOPD-Router: Rethinking Teacher Routing in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.30837-b31b1b.svg)](http://arxiv.org/abs/2609.30837)
 - Distill What You Trust: Reliability-Aware Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.23697-b31b1b.svg)](http://arxiv.org/abs/2609.23697)
 - Who Teaches Which Token? Verifier-Gated Multi-Expert On-Policy Distillation for Scientific Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2609.15404-b31b1b.svg)](http://arxiv.org/abs/2609.15404)
 - Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.08798-b31b1b.svg)](http://arxiv.org/abs/2609.08798)
