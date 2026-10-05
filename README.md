@@ -21,6 +21,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 ### Methods & Optimization
 
 - Latent-MOPD: Latent Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.02381-b31b1b.svg)](http://arxiv.org/abs/2610.02381)
+- Slow-Fast Multi-Teacher On-Policy Distillation for Capability Preservation [![arXiv](https://img.shields.io/badge/arXiv-2610.02324-b31b1b.svg)](http://arxiv.org/abs/2610.02324)
 - Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.35347-b31b1b.svg)](http://arxiv.org/abs/2609.35347)
 - No Pain, More Gain: Iterative Merging for Effective Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.34745-b31b1b.svg)](http://arxiv.org/abs/2609.34745)
 - PMOPD: Task Ordering, Cycling, and Parameter-Update Subspace Protection in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.34605-b31b1b.svg)](http://arxiv.org/abs/2609.34605)
