@@ -20,6 +20,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- Latent-MOPD: Latent Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.02381-b31b1b.svg)](http://arxiv.org/abs/2610.02381)
 - Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.35347-b31b1b.svg)](http://arxiv.org/abs/2609.35347)
 - No Pain, More Gain: Iterative Merging for Effective Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.34745-b31b1b.svg)](http://arxiv.org/abs/2609.34745)
 - PMOPD: Task Ordering, Cycling, and Parameter-Update Subspace Protection in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.34605-b31b1b.svg)](http://arxiv.org/abs/2609.34605)
@@ -39,6 +40,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Analysis & Failure Modes
 
+- From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.02179-b31b1b.svg)](http://arxiv.org/abs/2610.02179)
 - Data-free On-policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.14193-b31b1b.svg)](http://arxiv.org/abs/2609.14193)
 - Rethinking On-Policy Distillation of Large Language Models II: One Training Example [![arXiv](https://img.shields.io/badge/arXiv-2609.04172-b31b1b.svg)](http://arxiv.org/abs/2609.04172)
 - Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models [![arXiv](https://img.shields.io/badge/arXiv-2608.16647-b31b1b.svg)](http://arxiv.org/abs/2608.16647)
