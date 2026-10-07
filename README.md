@@ -20,6 +20,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- UP-MOPD: Update Projection in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.08398-b31b1b.svg)](http://arxiv.org/abs/2610.08398)
 - Latent-MOPD: Latent Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.02381-b31b1b.svg)](http://arxiv.org/abs/2610.02381)
 - Slow-Fast Multi-Teacher On-Policy Distillation for Capability Preservation [![arXiv](https://img.shields.io/badge/arXiv-2610.02324-b31b1b.svg)](http://arxiv.org/abs/2610.02324)
 - Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.35347-b31b1b.svg)](http://arxiv.org/abs/2609.35347)
@@ -30,7 +31,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 - Who Teaches Which Token? Verifier-Gated Multi-Expert On-Policy Distillation for Scientific Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2609.15404-b31b1b.svg)](http://arxiv.org/abs/2609.15404)
 - Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.08798-b31b1b.svg)](http://arxiv.org/abs/2609.08798)
 - Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs [![arXiv](https://img.shields.io/badge/arXiv-2609.02548-b31b1b.svg)](http://arxiv.org/abs/2609.02548)
-- Preserving General Capabilities during Domain Specialization with Uncertainty-Calibrated MOPD [![arXiv](https://img.shields.io/badge/arXiv-2608.26735-b31b1b.svg)](http://arxiv.org/abs/2608.26735)
+- Recovering General Capabilities via Uncertainty-Calibrated Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.26735-b31b1b.svg)](http://arxiv.org/abs/2608.26735)
 - D3-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.24987-b31b1b.svg)](http://arxiv.org/abs/2608.24987)
 - Beyond the Best Teacher: Expanding and Compressing the Reasoning Solution Manifold [![arXiv](https://img.shields.io/badge/arXiv-2607.27770-b31b1b.svg)](http://arxiv.org/abs/2607.27770)
 - Weak-to-Strong On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.26246-b31b1b.svg)](http://arxiv.org/abs/2607.26246)
@@ -41,6 +42,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Analysis & Failure Modes
 
+- Rethinking Self-Distillation for Multi-Teacher Capability Merging [![arXiv](https://img.shields.io/badge/arXiv-2610.04272-b31b1b.svg)](http://arxiv.org/abs/2610.04272)
 - From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.02179-b31b1b.svg)](http://arxiv.org/abs/2610.02179)
 - Data-free On-policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.14193-b31b1b.svg)](http://arxiv.org/abs/2609.14193)
 - Rethinking On-Policy Distillation of Large Language Models II: One Training Example [![arXiv](https://img.shields.io/badge/arXiv-2609.04172-b31b1b.svg)](http://arxiv.org/abs/2609.04172)
