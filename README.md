@@ -20,6 +20,8 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.13521-b31b1b.svg)](http://arxiv.org/abs/2610.13521)
+- Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts [![arXiv](https://img.shields.io/badge/arXiv-2610.10460-b31b1b.svg)](http://arxiv.org/abs/2610.10460)
 - UP-MOPD: Update Projection in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.08398-b31b1b.svg)](http://arxiv.org/abs/2610.08398)
 - Latent-MOPD: Latent Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.02381-b31b1b.svg)](http://arxiv.org/abs/2610.02381)
 - Slow-Fast Multi-Teacher On-Policy Distillation for Capability Preservation [![arXiv](https://img.shields.io/badge/arXiv-2610.02324-b31b1b.svg)](http://arxiv.org/abs/2610.02324)
@@ -55,15 +57,20 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 - MAS-OPD: On-Policy Distillation for Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-2609.34234-b31b1b.svg)](http://arxiv.org/abs/2609.34234)
 - One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents [![arXiv](https://img.shields.io/badge/arXiv-2609.23377-b31b1b.svg)](http://arxiv.org/abs/2609.23377)
 - Video-MOPD: Multi-Teacher On-Policy Distillation for Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2609.09300-b31b1b.svg)](http://arxiv.org/abs/2609.09300)
+- Flow3D-OPD: Multi-Teacher On-Policy Distillation for 3D Geometry Generation with Flow-Matching Diffusion Transformer [![arXiv](https://img.shields.io/badge/arXiv-2609.07137-b31b1b.svg)](http://arxiv.org/abs/2609.07137)
 - Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models [![arXiv](https://img.shields.io/badge/arXiv-2608.04349-b31b1b.svg)](http://arxiv.org/abs/2608.04349)
 - Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
 - MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.29320-b31b1b.svg)](http://arxiv.org/abs/2607.29320)
+- OPOD: On-Policy Omni Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.20918-b31b1b.svg)](http://arxiv.org/abs/2607.20918)
 - UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning [![arXiv](https://img.shields.io/badge/arXiv-2607.04425-b31b1b.svg)](http://arxiv.org/abs/2607.04425)
 - DanceOPD: On-Policy Generative Field Distillation [![arXiv](https://img.shields.io/badge/arXiv-2606.27377-b31b1b.svg)](http://arxiv.org/abs/2606.27377)
 - CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2605.25378-b31b1b.svg)](http://arxiv.org/abs/2605.25378)
 
 ## 3. Technical Reports
 
+- ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination [![arXiv](https://img.shields.io/badge/arXiv-2609.24526-b31b1b.svg)](http://arxiv.org/abs/2609.24526)
+- SenseNova-U1.5: Towards Native Unified Visual Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2609.11929-b31b1b.svg)](http://arxiv.org/abs/2609.11929)
+- UI-Venus-2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2609.00028-b31b1b.svg)](http://arxiv.org/abs/2609.00028)
 - Kimi K3: Open Frontier Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2607.24653-b31b1b.svg)](http://arxiv.org/abs/2607.24653)
 - Solar Open 2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.20062-b31b1b.svg)](http://arxiv.org/abs/2607.20062)
 - Mach-Mind-4-Flash Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2607.09375-b31b1b.svg)](http://arxiv.org/abs/2607.09375)
