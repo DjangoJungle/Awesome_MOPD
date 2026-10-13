@@ -55,10 +55,12 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 ### Applications In Different Domains
 
 - MAS-OPD: On-Policy Distillation for Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-2609.34234-b31b1b.svg)](http://arxiv.org/abs/2609.34234)
+- ChemOPD: Multi-Teacher On-Policy Distillation for Multi-Task Chemical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2609.33838-b31b1b.svg)](http://arxiv.org/abs/2609.33838)
 - One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents [![arXiv](https://img.shields.io/badge/arXiv-2609.23377-b31b1b.svg)](http://arxiv.org/abs/2609.23377)
 - Video-MOPD: Multi-Teacher On-Policy Distillation for Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2609.09300-b31b1b.svg)](http://arxiv.org/abs/2609.09300)
 - Flow3D-OPD: Multi-Teacher On-Policy Distillation for 3D Geometry Generation with Flow-Matching Diffusion Transformer [![arXiv](https://img.shields.io/badge/arXiv-2609.07137-b31b1b.svg)](http://arxiv.org/abs/2609.07137)
 - Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models [![arXiv](https://img.shields.io/badge/arXiv-2608.04349-b31b1b.svg)](http://arxiv.org/abs/2608.04349)
+- Language-Specialized Multi-Teacher On-Policy Distillation for Multilingual LLM-Based ASR [![arXiv](https://img.shields.io/badge/arXiv-2608.03610-b31b1b.svg)](http://arxiv.org/abs/2608.03610)
 - Cross-Domain Hybrid OPD for Generalizable Search Agents [![arXiv](https://img.shields.io/badge/arXiv-2608.02101-b31b1b.svg)](http://arxiv.org/abs/2608.02101)
 - MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.29320-b31b1b.svg)](http://arxiv.org/abs/2607.29320)
 - OPOD: On-Policy Omni Distillation [![arXiv](https://img.shields.io/badge/arXiv-2607.20918-b31b1b.svg)](http://arxiv.org/abs/2607.20918)
