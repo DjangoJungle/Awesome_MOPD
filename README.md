@@ -54,6 +54,8 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Applications In Different Domains
 
+- Multi-Teacher On-Policy Distillation for Flow-Based Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-2610.21522-b31b1b.svg)](http://arxiv.org/abs/2610.21522)
+
 - MAS-OPD: On-Policy Distillation for Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-2609.34234-b31b1b.svg)](http://arxiv.org/abs/2609.34234)
 - ChemOPD: Multi-Teacher On-Policy Distillation for Multi-Task Chemical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2609.33838-b31b1b.svg)](http://arxiv.org/abs/2609.33838)
 - One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents [![arXiv](https://img.shields.io/badge/arXiv-2609.23377-b31b1b.svg)](http://arxiv.org/abs/2609.23377)
