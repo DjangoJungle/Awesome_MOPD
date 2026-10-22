@@ -10,6 +10,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Foundations & Capability Integration
 
+- A Fisher-Geometric View of Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.26525-b31b1b.svg)](http://arxiv.org/abs/2610.26525)
 - ACLArena: Agent Continual Learning in Multi-stage Post-training [![arXiv](https://img.shields.io/badge/arXiv-2609.23989-b31b1b.svg)](http://arxiv.org/abs/2609.23989)
 - Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms [![arXiv](https://img.shields.io/badge/arXiv-2608.27409-b31b1b.svg)](http://arxiv.org/abs/2608.27409)
 - Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2608.19098-b31b1b.svg)](http://arxiv.org/abs/2608.19098)
@@ -20,6 +21,8 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- Beyond Policy Discrepancy: Capability-Aware Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.26950-b31b1b.svg)](http://arxiv.org/abs/2610.26950)
+- Nash-MOPD: Optimizing Task Trade-offs in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.26124-b31b1b.svg)](http://arxiv.org/abs/2610.26124)
 - Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.13521-b31b1b.svg)](http://arxiv.org/abs/2610.13521)
 - Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts [![arXiv](https://img.shields.io/badge/arXiv-2610.10460-b31b1b.svg)](http://arxiv.org/abs/2610.10460)
 - UP-MOPD: Update Projection in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.08398-b31b1b.svg)](http://arxiv.org/abs/2610.08398)
