@@ -21,6 +21,10 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- P²-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors [![arXiv](https://img.shields.io/badge/arXiv-2611.03953-b31b1b.svg)](http://arxiv.org/abs/2611.03953)
+- Replay for LLM Continual Learning with Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.02746-b31b1b.svg)](http://arxiv.org/abs/2611.02746)
+- Every Token Needs Its Own Teacher: Multi-Teacher Adaptive On-Policy Self-Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.40574-b31b1b.svg)](http://arxiv.org/abs/2610.40574)
+- DoubleFree: Exploiting Exploration History for Rollout-Free Multi-Task LLMs Training [![arXiv](https://img.shields.io/badge/arXiv-2610.34272-b31b1b.svg)](http://arxiv.org/abs/2610.34272)
 - Beyond Policy Discrepancy: Capability-Aware Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.26950-b31b1b.svg)](http://arxiv.org/abs/2610.26950)
 - Nash-MOPD: Optimizing Task Trade-offs in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.26124-b31b1b.svg)](http://arxiv.org/abs/2610.26124)
 - Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.13521-b31b1b.svg)](http://arxiv.org/abs/2610.13521)
@@ -57,8 +61,9 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Applications In Different Domains
 
+- Diverse-Teacher On-Policy Distillation for Generative Recommendation [![arXiv](https://img.shields.io/badge/arXiv-2611.03272-b31b1b.svg)](http://arxiv.org/abs/2611.03272)
+- KL-MOPD: Discrepancy-Aware Multi-Objective On-Policy Distillation for Generative Recommendation [![arXiv](https://img.shields.io/badge/arXiv-2610.36973-b31b1b.svg)](http://arxiv.org/abs/2610.36973)
 - Multi-Teacher On-Policy Distillation for Flow-Based Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-2610.21522-b31b1b.svg)](http://arxiv.org/abs/2610.21522)
-
 - MAS-OPD: On-Policy Distillation for Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-2609.34234-b31b1b.svg)](http://arxiv.org/abs/2609.34234)
 - ChemOPD: Multi-Teacher On-Policy Distillation for Multi-Task Chemical Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2609.33838-b31b1b.svg)](http://arxiv.org/abs/2609.33838)
 - One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents [![arXiv](https://img.shields.io/badge/arXiv-2609.23377-b31b1b.svg)](http://arxiv.org/abs/2609.23377)
@@ -75,6 +80,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ## 3. Technical Reports
 
+- Mistral Large 4 [![alphaXiv](https://img.shields.io/badge/alphaXiv-2611.mistral--large--4-1f6feb.svg)](https://www.alphaxiv.org/abs/2611.mistral-large-4)
 - ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination [![arXiv](https://img.shields.io/badge/arXiv-2609.24526-b31b1b.svg)](http://arxiv.org/abs/2609.24526)
 - SenseNova-U1.5: Towards Native Unified Visual Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2609.11929-b31b1b.svg)](http://arxiv.org/abs/2609.11929)
 - UI-Venus-2 Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2609.00028-b31b1b.svg)](http://arxiv.org/abs/2609.00028)
