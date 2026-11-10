@@ -51,6 +51,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Analysis & Failure Modes
 
+- On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation [![arXiv](https://img.shields.io/badge/arXiv-2611.05609-b31b1b.svg)](http://arxiv.org/abs/2611.05609)
 - Rethinking Self-Distillation for Multi-Teacher Capability Merging [![arXiv](https://img.shields.io/badge/arXiv-2610.04272-b31b1b.svg)](http://arxiv.org/abs/2610.04272)
 - From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.02179-b31b1b.svg)](http://arxiv.org/abs/2610.02179)
 - Data-free On-policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2609.14193-b31b1b.svg)](http://arxiv.org/abs/2609.14193)
@@ -61,6 +62,8 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Applications In Different Domains
 
+- Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2611.12886-b31b1b.svg)](http://arxiv.org/abs/2611.12886)
+- StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models [![arXiv](https://img.shields.io/badge/arXiv-2611.04386-b31b1b.svg)](http://arxiv.org/abs/2611.04386)
 - Diverse-Teacher On-Policy Distillation for Generative Recommendation [![arXiv](https://img.shields.io/badge/arXiv-2611.03272-b31b1b.svg)](http://arxiv.org/abs/2611.03272)
 - KL-MOPD: Discrepancy-Aware Multi-Objective On-Policy Distillation for Generative Recommendation [![arXiv](https://img.shields.io/badge/arXiv-2610.36973-b31b1b.svg)](http://arxiv.org/abs/2610.36973)
 - Multi-Teacher On-Policy Distillation for Flow-Based Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-2610.21522-b31b1b.svg)](http://arxiv.org/abs/2610.21522)
