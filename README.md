@@ -21,6 +21,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- Robust Domain-Mixture Scheduling for Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.12012-b31b1b.svg)](http://arxiv.org/abs/2611.12012)
 - P²-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors [![arXiv](https://img.shields.io/badge/arXiv-2611.03953-b31b1b.svg)](http://arxiv.org/abs/2611.03953)
 - Replay for LLM Continual Learning with Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.02746-b31b1b.svg)](http://arxiv.org/abs/2611.02746)
 - Every Token Needs Its Own Teacher: Multi-Teacher Adaptive On-Policy Self-Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.40574-b31b1b.svg)](http://arxiv.org/abs/2610.40574)
@@ -51,6 +52,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Analysis & Failure Modes
 
+- Janus-MOPD: Tracing the Student Learning Dynamics in Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.15341-b31b1b.svg)](http://arxiv.org/abs/2611.15341)
 - On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation [![arXiv](https://img.shields.io/badge/arXiv-2611.05609-b31b1b.svg)](http://arxiv.org/abs/2611.05609)
 - Rethinking Self-Distillation for Multi-Teacher Capability Merging [![arXiv](https://img.shields.io/badge/arXiv-2610.04272-b31b1b.svg)](http://arxiv.org/abs/2610.04272)
 - From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.02179-b31b1b.svg)](http://arxiv.org/abs/2610.02179)
@@ -63,6 +65,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 ### Applications In Different Domains
 
 - Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2611.12886-b31b1b.svg)](http://arxiv.org/abs/2611.12886)
+- VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation [![arXiv](https://img.shields.io/badge/arXiv-2611.12286-b31b1b.svg)](http://arxiv.org/abs/2611.12286)
 - StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models [![arXiv](https://img.shields.io/badge/arXiv-2611.04386-b31b1b.svg)](http://arxiv.org/abs/2611.04386)
 - Diverse-Teacher On-Policy Distillation for Generative Recommendation [![arXiv](https://img.shields.io/badge/arXiv-2611.03272-b31b1b.svg)](http://arxiv.org/abs/2611.03272)
 - KL-MOPD: Discrepancy-Aware Multi-Objective On-Policy Distillation for Generative Recommendation [![arXiv](https://img.shields.io/badge/arXiv-2610.36973-b31b1b.svg)](http://arxiv.org/abs/2610.36973)
