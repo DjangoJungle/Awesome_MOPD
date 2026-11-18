@@ -64,6 +64,8 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Applications In Different Domains
 
+- M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.23034-b31b1b.svg)](http://arxiv.org/abs/2611.23034)
+- Conflict-Aware Multi-Teacher On-Policy Distillation in Aligned Action Spaces for Cross-Game Generalization [![arXiv](https://img.shields.io/badge/arXiv-2611.21094-b31b1b.svg)](http://arxiv.org/abs/2611.21094)
 - Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2611.12886-b31b1b.svg)](http://arxiv.org/abs/2611.12886)
 - VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation [![arXiv](https://img.shields.io/badge/arXiv-2611.12286-b31b1b.svg)](http://arxiv.org/abs/2611.12286)
 - StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models [![arXiv](https://img.shields.io/badge/arXiv-2611.04386-b31b1b.svg)](http://arxiv.org/abs/2611.04386)
