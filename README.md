@@ -21,6 +21,8 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Methods & Optimization
 
+- Replay, Don't Resample: Off-Policy Consolidation of Long-Horizon RL Experts [![arXiv](https://img.shields.io/badge/arXiv-2611.24059-b31b1b.svg)](http://arxiv.org/abs/2611.24059)
+- Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training [![alphaXiv](https://img.shields.io/badge/alphaXiv-2611.composable--soft--prompt--distillation-1f6feb.svg)](https://www.alphaxiv.org/abs/2611.composable-soft-prompt-distillation)
 - Robust Domain-Mixture Scheduling for Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.12012-b31b1b.svg)](http://arxiv.org/abs/2611.12012)
 - P²-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors [![arXiv](https://img.shields.io/badge/arXiv-2611.03953-b31b1b.svg)](http://arxiv.org/abs/2611.03953)
 - Replay for LLM Continual Learning with Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.02746-b31b1b.svg)](http://arxiv.org/abs/2611.02746)
