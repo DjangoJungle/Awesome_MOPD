@@ -10,6 +10,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Foundations & Capability Integration
 
+- Branch and Consolidate: A Unified Recipe for Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.32515-b31b1b.svg)](http://arxiv.org/abs/2611.32515)
 - A Fisher-Geometric View of Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2610.26525-b31b1b.svg)](http://arxiv.org/abs/2610.26525)
 - ACLArena: Agent Continual Learning in Multi-stage Post-training [![arXiv](https://img.shields.io/badge/arXiv-2609.23989-b31b1b.svg)](http://arxiv.org/abs/2609.23989)
 - Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms [![arXiv](https://img.shields.io/badge/arXiv-2608.27409-b31b1b.svg)](http://arxiv.org/abs/2608.27409)
@@ -66,6 +67,7 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ### Applications In Different Domains
 
+- Generalizing Agentic Robotics via Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.30997-b31b1b.svg)](http://arxiv.org/abs/2611.30997)
 - M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation [![arXiv](https://img.shields.io/badge/arXiv-2611.23034-b31b1b.svg)](http://arxiv.org/abs/2611.23034)
 - Conflict-Aware Multi-Teacher On-Policy Distillation in Aligned Action Spaces for Cross-Game Generalization [![arXiv](https://img.shields.io/badge/arXiv-2611.21094-b31b1b.svg)](http://arxiv.org/abs/2611.21094)
 - Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning [![arXiv](https://img.shields.io/badge/arXiv-2611.12886-b31b1b.svg)](http://arxiv.org/abs/2611.12886)
@@ -90,6 +92,8 @@ A curated list of papers and technical reports related to **Multi-Teacher On-Pol
 
 ## 3. Technical Reports
 
+- KMed-31B Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2611.28719-b31b1b.svg)](http://arxiv.org/abs/2611.28719)
+- LingSante MedGuard Technical Report [![arXiv](https://img.shields.io/badge/arXiv-2611.25509-b31b1b.svg)](http://arxiv.org/abs/2611.25509)
 - Mistral Large 4 [![alphaXiv](https://img.shields.io/badge/alphaXiv-2611.mistral--large--4-1f6feb.svg)](https://www.alphaxiv.org/abs/2611.mistral-large-4)
 - ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination [![arXiv](https://img.shields.io/badge/arXiv-2609.24526-b31b1b.svg)](http://arxiv.org/abs/2609.24526)
 - SenseNova-U1.5: Towards Native Unified Visual Intelligence [![arXiv](https://img.shields.io/badge/arXiv-2609.11929-b31b1b.svg)](http://arxiv.org/abs/2609.11929)
